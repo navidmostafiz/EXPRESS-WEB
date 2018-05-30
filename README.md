@@ -2,11 +2,14 @@
 BoilerPlate for HTML5, Bootstrap, Jquery, Ajax
 
 ## :beetle: The Stack
-* HTML5
-* Bootstrap
-* JQuery
+| FW/Lib         | Description                                        |
+| -------------- | -------------------------------------------------- |
+| :red_circle: HTML5 | |
+| :red_circle: JQuery| |
+| :red_circle: Bootstrap| |
 
-### Modules included
+
+## :beetle: Other Modules included
 * Geolocation
 * Dynamic list generator
 
@@ -24,7 +27,7 @@ cmd> npm run start
 
 
 ## :beetle: Useful Commands
-### :beetle: To create a new Github repository on the command line from project directory folder:
+#### :diamonds: To create a new Github repository on the command line from project directory folder:
 ```sh
 cmd> echo "# EXPRESS-WEB" >> README.md
 cmd> git init
